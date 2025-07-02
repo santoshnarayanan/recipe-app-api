@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.env
+*.env
+.env.*
+
+# Python virtual environment
+venv/
+.env/
+.venv/
+
+# Django-specific
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Node/npm (if using React or other JS tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled assets
+*.log
+*.pot
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker
+Dockerfile
+docker-compose.yml
+
+# Git
+.git/
+.gitignore
